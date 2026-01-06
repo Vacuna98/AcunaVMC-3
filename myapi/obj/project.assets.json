@@ -3043,19 +3043,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/vanessaacuna/.nuget/packages/": {}
+    "C:\\Users\\Sammer Saqa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vanessaacuna/Documents/CodeStack/Level2/Mini Challenge/AcunaVMC#3/myapi/myapi.csproj",
+      "projectUniqueName": "C:\\Users\\Sammer Saqa\\Desktop\\Academy FOLDER\\Level 2\\Peer Reviews\\AcunaVMC-3\\myapi\\myapi.csproj",
       "projectName": "myapi",
-      "projectPath": "/Users/vanessaacuna/Documents/CodeStack/Level2/Mini Challenge/AcunaVMC#3/myapi/myapi.csproj",
-      "packagesPath": "/Users/vanessaacuna/.nuget/packages/",
-      "outputPath": "/Users/vanessaacuna/Documents/CodeStack/Level2/Mini Challenge/AcunaVMC#3/myapi/obj/",
+      "projectPath": "C:\\Users\\Sammer Saqa\\Desktop\\Academy FOLDER\\Level 2\\Peer Reviews\\AcunaVMC-3\\myapi\\myapi.csproj",
+      "packagesPath": "C:\\Users\\Sammer Saqa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sammer Saqa\\Desktop\\Academy FOLDER\\Level 2\\Peer Reviews\\AcunaVMC-3\\myapi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/vanessaacuna/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Sammer Saqa\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -3133,7 +3133,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
@@ -3147,12 +3147,6 @@
       "targetGraphs": [
         "net9.0"
       ]
-    },
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Access to the path '/Users/vanessaacuna/.local/share/NuGet/http-cache/670c1461c29885f9aa22c281d8b7da90845b38e4$ps:_api.nuget.org_v3_index.json/vuln_index.dat-new' is denied."
     }
   ]
 }
